@@ -16,7 +16,7 @@ This project walks through the process of:
 
 - Visualizing generated outputs after each epoch.
 
-## Built using
+## Built using:
 
 PyTorch — Deep learning framework for building and training neural networks
 
@@ -28,7 +28,7 @@ TQDM — For progress bars during training
 
 Torchsummary — To summarize model architecture
 
-## Key Insights
+## Key Insights:
 - #### The Model Can Learn to Create Handwritten Digits
 We used a special type of neural network called a DCGAN that can generate new, fake handwritten digits that look like real ones from the MNIST dataset.
 
